@@ -1,0 +1,17 @@
+<idea-plugin>
+  <id>com.michaelandreuzza.serendipity.jetbrains</id>
+  <name>Serendipity Theme</name>
+  <vendor email="hello@michaelandreuzza.com" url="https://www.michaelandreuzza.com/vscode/serendipity/">Micheal Andreuzza</vendor>
+  <description><![CDATA[
+<p><strong>Serendipity</strong> editor color schemes for JetBrains IDEs.</p>
+<p>Includes Midnight, Morning, Sunset.</p>
+<p>Source: <a href="https://github.com/Serendipity-Theme/jetbrains">https://github.com/Serendipity-Theme/jetbrains</a></p>
+  ]]></description>
+  <depends>com.intellij.modules.lang</depends>
+  <idea-version since-build="231"/>
+  <extensions defaultExtensionNs="com.intellij">
+    <bundledColorScheme path="/colors/Serendipity Midnight" id="Serendipity Midnight"/>
+    <bundledColorScheme path="/colors/Serendipity Morning" id="Serendipity Morning"/>
+    <bundledColorScheme path="/colors/Serendipity Sunset" id="Serendipity Sunset"/>
+  </extensions>
+</idea-plugin>
