@@ -6,6 +6,12 @@ Elegant, minimal, and clean color palette for your tools.
 
 See other interfaces at the [official website](https://www.michaelandreuzza.com/vscode/serendipity/).
 
+## Preview
+
+| Serendipity Midnight | Serendipity Morning | Serendipity Sunset |
+| --- | --- | --- |
+| ![Serendipity Midnight](screenshots/serendipity-midnight.png) | ![Serendipity Morning](screenshots/serendipity-morning.png) | ![Serendipity Sunset](screenshots/serendipity-sunset.png) |
+
 ## Available themes
 
 - **Midnight** — dark
@@ -16,7 +22,7 @@ See other interfaces at the [official website](https://www.michaelandreuzza.com/
 
 Install from JetBrains Marketplace (see `MARKETPLACE.md`) or import `.icls` files manually (see `INSTALL.md`).
 
-Available files: `Serendipity Midnight.icls`, `screenshots/serendipity-midnight.png`, `Serendipity Morning.icls`, `screenshots/serendipity-morning.png`, `Serendipity Sunset.icls`, `screenshots/serendipity-sunset.png`, `build.gradle.kts`, `settings.gradle.kts`, `gradle.properties`, `src/main/resources/META-INF/plugin.xml`, `src/main/resources/META-INF/pluginIcon.svg`, `MARKETPLACE.md`, `INSTALL.md`, `.gitignore`, `.github/workflows/build-plugin.yml`, `src/main/resources/colors/Serendipity Midnight.xml`, `src/main/resources/colors/Serendipity Morning.xml`, `src/main/resources/colors/Serendipity Sunset.xml`.
+See `MARKETPLACE.md` for publishing and release steps.
 
 ## Created by
 
